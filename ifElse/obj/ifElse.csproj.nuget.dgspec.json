@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\partTwo\\ifElse\\ifElse.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\projects\\ifElse\\ifElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\partTwo\\ifElse\\ifElse.csproj": {
+    "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\projects\\ifElse\\ifElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\partTwo\\ifElse\\ifElse.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\projects\\ifElse\\ifElse.csproj",
         "projectName": "ifElse",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\partTwo\\ifElse\\ifElse.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\projects\\ifElse\\ifElse.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\partTwo\\ifElse\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\projects\\mslearn\\CsharpProjects\\CsharpIntrodution\\projects\\ifElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
