@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.exe
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.deps.json
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.runtimeconfig.json
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.dll
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.pdb
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.AssemblyInfo.cs
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.sourcelink.json
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.dll
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\refint\CsharpArrays.dll
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.pdb
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.genruntimeconfig.cache
+C:\Users\gusta\Desktop\projects\mslearn\CsharpProjects\CsharpIntrodution\projects\CsharpArrays\obj\Debug\net8.0\ref\CsharpArrays.dll
